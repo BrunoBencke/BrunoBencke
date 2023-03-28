@@ -1,6 +1,6 @@
 Hi 👋 My name is Bruno Bencke
 
-C# | Git | Genero FourJs | Informix | Computer Engineer
+C# | PHP | Laravel | Java | Git | Genero FourJs | Informix | Computer Engineer
 
 My name is Bruno and I am a Full-Stack developer at Tramontina. Currently I develop ERPs in FourJs Genero language and work with IBM Informix database. I also develop applications and APIs in C#. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.
 
