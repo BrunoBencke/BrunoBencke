@@ -1,8 +1,8 @@
-Hi 👋 My name is Bruno Bencke
+Hi 👋 My name is Bruno Bencke! I am a computer engineer.
 
-C# | PHP | Laravel | React | Java | Git | Genero FourJs | Informix | Computer Engineer
+Java | C# | PHP | Javascript | Spring Boot | Laravel | React | Git | Genero FourJs
 
-My name is Bruno and I am a Full-Stack developer at Tramontina. Currently I develop ERPs in React/C#/FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.
+My name is Bruno and I am a Full-Stack developer at Tramontina. Currently I develop ERPs in React/C#/Java/FourJs Genero language and work with Postgres/IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.
 
 Welcome to my profile. 
 
