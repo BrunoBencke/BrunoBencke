@@ -11,7 +11,7 @@ Welcome to my profile.
 * 🌍  I'm based in Carlos Barbosa, Rio Grande do Sul, Brasil
 * ✉️  You can contact me at [brunobencke@live.com](mailto:brunobencke@live.com)
 * 🚀  I'm currently working on [Tramontina](http://www.tramontina.com.br/)
-* 🧠  I'm learning ASP.NET
+* 🧠  I'm learning Vue.js
 
 ### Skills
 
