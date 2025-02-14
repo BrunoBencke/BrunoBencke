@@ -1,6 +1,6 @@
 Hi 👋 My name is Bruno Bencke! I am a computer engineer.
 
-Java | C# | PHP | Javascript | Spring Boot | Laravel | React | Git | Genero FourJs
+React • Typescript • Java • Quarkus • Spring Boot • Python • Langchain • LangGraph • Prompt Engineering • Generative AI • Langflow • 4GL Genero FourJs | Computer Engineer
 
 My name is Bruno and I am a Full-Stack developer at Tramontina. Currently I develop ERPs in React/C#/Java/FourJs Genero language and work with Postgres/IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.
 
@@ -8,9 +8,9 @@ Welcome to my profile.
 
 "Whenever they ask you if you can do a job, tell them: - I certainly can! - Then get very busy and figure out how to do it." Theodore Roosevelt.
 
-* 🌍  I'm based in Carlos Barbosa, Rio Grande do Sul, Brasil
+* 🌍  I'm based in Bom Retiro do Sul, Rio Grande do Sul, Brasil
 * ✉️  You can contact me at [brunobencke@live.com](mailto:brunobencke@live.com)
-* 🚀  I'm currently working on [Tramontina](http://www.tramontina.com.br/)
+* 🚀  I'm currently working on [Cresol – Credit Union](https://cresol.com.br/)
 * 🧠  I'm learning Vue.js
 
 ### Skills
